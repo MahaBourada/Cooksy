@@ -27,53 +27,33 @@
 
 # Preview
 <ul>
-  <li><h2>Consulter les recettes</h2>
+  <li><h2>Consulter les recettes et Rechercher une recette par son nom, sa catégorie ou ses ingrédients en plus de les filtrer</h2>
 
-
-
-  </li>
-  
-  <li><h2>Rhercher une recette par son nom, sa catégorie ou ses ingrédients</h2>
-
-  
+https://github.com/user-attachments/assets/ea714d19-5764-4fdf-b924-ee4463b31305
 
   </li>
 
-  <li><h2>Filtrer les recettes</h2>
+  <li><h2>Consulter les détails d'une recette et publier un avis</h2>
 
-    
-
-  </li>
-
-  <li><h2>Consulter les détails d'une recette</h2>
-
-    
-
-  </li>
-
-  <li><h2>Publier un avis sur la recette</h2>
-
-    
+https://github.com/user-attachments/assets/53b18e66-1039-413a-8495-ed32a4800422
 
   </li>
 
   <li><h2>Connexion & Tableau de bord</h2>
 
-    
+https://github.com/user-attachments/assets/ebc739a6-a04e-4fde-9cba-edd8b5408722
 
   </li>
 
   <li><h2>Gestion catégories</h2>
-  <h3>Ajouter une catégorie</h3>
 
-  <h3>Mettre à jour une catégorie et la supprimer</h3>
-
+https://github.com/user-attachments/assets/31151ef9-60c7-4829-8985-681a075a5e5a
+    
   </li>
 
   <li><h2>Gestion étiquettes</h2>
-  <h3>Ajouter une éiquette</h3>
 
-  <h3>Mettre à jour une étiquette et la supprimer</h3>
+https://github.com/user-attachments/assets/6ef66cc0-809a-4124-9b49-04fb5d326b0a
 
   </li>
 
