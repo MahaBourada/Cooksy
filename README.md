@@ -22,8 +22,13 @@
 </ul>
 
 # Notes
-<p>Le backend fonctionne avec XAMPP.</p>
-<p>Le frontend fonctionne sur le port 5173 en utilisant la commande : <code>npm run build</code></p>
+<p>Le backend et base de données fonctionne avec XAMPP.</p>
+<p>Le frontend fonctionne sur le port 5173 en utilisant les 2 commandes : 
+<ul>
+    <li><code>npm install</code></li>
+    <li><code>npm run build</code></li>
+  </ul>
+</p>
 
 # Preview
 <ul>
