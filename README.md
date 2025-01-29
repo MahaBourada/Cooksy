@@ -60,7 +60,11 @@ https://github.com/user-attachments/assets/6ef66cc0-809a-4124-9b49-04fb5d326b0a
   <li><h2>Gestion recette</h2>
   <h3>Ajouter une recette</h3>
 
+https://github.com/user-attachments/assets/a432a3c0-0597-4995-84df-d077acf71007
+
   <h3>Mettre à jour une recette et la supprimer</h3>
+
+https://github.com/user-attachments/assets/b0b19ed0-2ff4-4d98-8d94-f8280f8251ba
 
   </li>
 </ul>
