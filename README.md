@@ -22,7 +22,11 @@
 </ul>
 
 # Notes
-<p>Le backend et base de données fonctionne avec XAMPP.</p>
+<p>Le backend et base de données fonctionne avec XAMPP. Identifiants de connexion : 
+<ul>
+    <li><b>Nom d'utilisateur : </b>admin</li>
+    <li><b>Mot de passe : </b>password123</li>
+  </ul></p>
 <p>Le frontend fonctionne sur le port 5173 en utilisant les 2 commandes : 
 <ul>
     <li><code>npm install</code></li>
