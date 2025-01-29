@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/6ef66cc0-809a-4124-9b49-04fb5d326b0a
 
   </li>
 
-  <li><h2>Gestion recette</h2>
+  <li><h2>Gestion recettes</h2>
   <h3>Ajouter une recette</h3>
 
 https://github.com/user-attachments/assets/a432a3c0-0597-4995-84df-d077acf71007
