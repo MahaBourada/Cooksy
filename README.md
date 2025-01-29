@@ -2,12 +2,12 @@
 <ul>
   <li>
 <h3>
-  <b>Objectif:</b> 
+  <b>Objectif :</b> 
 </h3>
 <p>Site de partage de recettes où l'administrateur gère des recettes, tandis que les utilisateurs peuvent les consulter et donner leurs avis.</p>
 </li>
 
-<li><b>Technologies used:</b></li>
+<li><b>Technologies used :</b></li>
   <ul>
     <li>React JS</li>
     <li>PHP</li>
