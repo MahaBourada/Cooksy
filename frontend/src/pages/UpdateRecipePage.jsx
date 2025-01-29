@@ -140,7 +140,7 @@ function UpdateRecipePage() {
 
   return (
     <>
-      <AdminHeader headerLabel="Ajouter une recette" />
+      <AdminHeader headerLabel="Mettre à jour une recette" />
       <main className="flex-grow flex flex-col p-5 mx-12">
         <form onSubmit={handleUpdate} className="m-3 w-full">
           <h2 className="text-3xl font-bold p-1 m-2">Informations générales</h2>

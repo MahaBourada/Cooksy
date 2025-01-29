@@ -240,7 +240,7 @@ function AddRecipePage() {
                   onChange={(e) => setCategorie(e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Catégorie
                   </option>
                   {Object.keys(categories).map((categorie, index) => (
@@ -263,7 +263,7 @@ function AddRecipePage() {
                   onChange={(e) => setSousCategorie(e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Sous-catégorie
                   </option>
                   {sousCategorieOptions.map((sousCat) => (
@@ -291,7 +291,7 @@ function AddRecipePage() {
                   onChange={(e) => setNiveau(e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Niveau
                   </option>
                   <option value="Facile">Facile</option>
@@ -312,7 +312,7 @@ function AddRecipePage() {
                   onChange={(e) => setCout(e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Coût
                   </option>
                   <option value="Pas cher">Pas cher</option>
@@ -334,7 +334,7 @@ function AddRecipePage() {
                   onChange={(e) => setTypeIntensite(e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Intensité
                   </option>
                   <option value="Epicé">Epicé</option>
@@ -353,7 +353,7 @@ function AddRecipePage() {
                   onChange={(e) => setNiveauIntensite(e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Niveau d'intensité
                   </option>
                   <option value="Faible">Faible</option>
@@ -377,7 +377,7 @@ function AddRecipePage() {
                   onChange={(e) => handleEtiquetteChange(index, e.target.value)}
                   className="text-body bg-transparent border-black border-[0.5px] rounded-2xl py-3 p-4 m-1 mb-3 w-full"
                 >
-                  <option value="" disabled>
+                  <option value="">
                     Choisir
                   </option>
                   {etiquettes.map((etiquette) => (

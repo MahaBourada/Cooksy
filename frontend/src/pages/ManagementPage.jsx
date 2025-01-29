@@ -69,7 +69,7 @@ function ManagementPage() {
     try {
       const response = await api.post("/etiquettes", etiquetteData);
 
-      setSuccessEtiquette(response.data.message);
+      setSuccessEtiquette("Etiquette ajoutée");
     } catch (error) {
       setErrorEtiquette(error.response.data.error);
     }
@@ -88,7 +88,7 @@ function ManagementPage() {
     try {
       const response = await api.post("/categories", categorieData);
 
-      setSuccessCategorie(response.data.message);
+      setSuccessCategorie("Sous catégorie ajoutée");
     } catch (error) {
       setErrorCategorie(error.response.data.error);
     }

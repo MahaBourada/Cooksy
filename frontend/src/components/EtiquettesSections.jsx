@@ -27,6 +27,8 @@ const EtiquettesSections = ({
           (etiquette) => etiquette.id_etiquette !== id_etiquette
         );
       });
+
+      setSuccess("Etiquette supprimée")
     } catch (error) {
       setError(response.data.error);
     }
@@ -40,7 +42,7 @@ const EtiquettesSections = ({
         nom: newNomEtiquette,
       });
 
-      setSuccess(response.data.message);
+      setSuccess("Etiquette modifiée");
 
       // Update the local state to reflect the change
       setEtiquettes((prevEtiquettes) => {

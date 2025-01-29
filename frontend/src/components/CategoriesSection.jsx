@@ -31,7 +31,7 @@ const CategoriesSection = ({
         return updatedCategories;
       });
 
-      setSuccess(response.data.message)
+      setSuccess("Sous catégorie supprimée")
     } catch (error) {
       setError(response.data.error);
     }
@@ -66,6 +66,8 @@ const CategoriesSection = ({
 
         return updatedCategories;
       });
+
+      setSuccess("Sous catégorie modifiée")
     } catch (error) {
       setError(response.data.error);
     }
@@ -107,7 +109,7 @@ const CategoriesSection = ({
         </select>
 
         <label htmlFor="sous-categorie" className="text-body">
-          Nom de la sous-tégorie
+          Nom de la sous-catégorie
         </label>
         <input
           id="sous-categorie"
