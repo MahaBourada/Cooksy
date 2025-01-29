@@ -23,7 +23,7 @@
 
 # Notes
 <ul>
-<li>Le backend et base de données fonctionne avec XAMPP. (Dossier "backend" doit être renommé en "coosky-api")</li>
+<li>Le backend et base de données fonctionnent avec XAMPP. (Dossier "backend" doit être renommé en "coosky-api")</li>
   
 <li>Paramètres de connexion à la base de données dans "backend/DbConnect.php"</li>
   
