@@ -9,10 +9,10 @@
 
 <li><b>Technologies utilisées :</b></li>
   <ul>
+    <li>Vite</li>
     <li>React JS</li>
     <li>PHP</li>
     <li>MySQL</li>
-    <li>Vite</li>
     <li>Tailwind CSS</li>
     <li>Lucid React Icons</li>
     <li>Axios</li>
